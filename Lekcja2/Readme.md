@@ -22,6 +22,6 @@ Kroki tworzenia nowego projektu:
 File → New File → .NET: New Project… C# Dev Kit → Console App. → Name LekcjaX → Folder Documents → Show all template options → Do-not-use-top-level-statement = true→ Create project.
 
 ### Konsola
-Otwórz konsolę za pomocą skrótu klawiszowego CTRL + ` (tylda znajduje się w lewym górnym rogu klawiatury, pod klawiszem ESC)
+Otwórz konsolę za pomocą skrótu klawiszowego CTRL + \` (tylda znajduje się w lewym górnym rogu klawiatury, pod klawiszem ESC)
 W konsoli wpisz `dotnet new console -n LekcjaX --use-program-main`. Zastąp X numerem dzisiejszej lekcji.
 Aby przejść do folderu z projektem wpisz w konsoli `cd LekcjaX`
